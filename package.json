@@ -1,0 +1,13 @@
+{
+  "name": "amdclean-module_exports-testcase",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "amdclean": "^2.4.0"
+  }
+}
